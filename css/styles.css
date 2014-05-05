@@ -276,9 +276,8 @@ h5 {
 -----------------------------------------*/
 
 header {
-	background-color: #7dc241;
-    background: url(../images/bg-1.jpg) no-repeat center top fixed;
-    -webkit-background-size: cover;
+    background: url(../images/bg-1.jpg) 0 0 no-repeat center top fixed;
+	     -webkit-background-size: cover;
             background-size: cover;
 }
 
@@ -612,7 +611,8 @@ header .intro-section .buttons {
 -----------------------------------------*/
 
 .download {
-    background: url('../images/bg-3.jpg') no-repeat center fixed;
+	background-color: #7dc241;
+    /*background: url('../images/bg-3.jpg') no-repeat center fixed;*/
     -webkit-background-size: cover;
             background-size: cover;
     color: #ffffff;
