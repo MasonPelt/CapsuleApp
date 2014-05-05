@@ -8,8 +8,8 @@ DEEP COLOR CODE: #430064
 =========================================
 ----------------------------------------- */
 
-.solid-color {
-    background: rgba(0, 142, 214, 1);
+.color-overlay {
+    background: rgba(0, 0, 0, 1);
 }
 
 .standard-button {
