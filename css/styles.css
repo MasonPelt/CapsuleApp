@@ -276,7 +276,7 @@ h5 {
 -----------------------------------------*/
 
 header {
-	background-color: (#7dc241, 0.5);
+	background-color: #7dc241 transparent 0.5;
     background: url(../images/bg-1.jpg) no-repeat center top fixed;
     -webkit-background-size: cover;
             background-size: cover;
