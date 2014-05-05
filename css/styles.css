@@ -275,10 +275,11 @@ h5 {
    SECTION:  HOME                 
 -----------------------------------------*/
 
-/*header {
-    background: url(../images/bg-1.jpg) no-repeat center top fixed;
+header {
+	background-color: #7dc241;
+    /*background: url(../images/bg-1.jpg) no-repeat center top fixed;*/
     -webkit-background-size: cover;
-            background-size: cover;*/
+            background-size: cover;
 }
 
 header .color-overlay {
