@@ -431,7 +431,7 @@ header .intro-section .buttons {
     min-height: 120px;
     margin-top: 5px;
 }
-
+3
 .features .feature .icon-container .icon {
     width: 55px;
     height: 55px;
@@ -701,6 +701,16 @@ footer .contact-box .contact-button {
     background-clip: padding-box;
 }
 
+footer .contact-box .contact-button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    background: #222222;
+    border: 1px solid #161616;
+}
+
+
 footer .contact-box .contact-button:hover {
     color: #ffffff;
 }
@@ -725,18 +735,21 @@ footer .contact-box .expanded-contact-form .input-box {
     border: 1px solid #161616;
 }
 
-footer .contact-box .expanded-contact-form .textarea-box {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    -webkit-box-shadow: none;
-            box-shadow: none;
-    background: #222222;
-    border: 1px solid #161616;
+footer .contact-box .contact-button {
+font-family: 'ElegantIcons';
+src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
+
 }
 
 footer .contact-box .expanded-contact-form .textarea-box:active,
 footer .contact-box .expanded-contact-form .textarea-box:focus,     {
     color: #FFF;
+}
+
+footer .social-icons {
+font-family: 'ElegantIcons';
+src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
+
 }
 
 footer .social-icons {

@@ -1,13 +1,12 @@
 @font-face {
-	font-family:"Helvetica Neue", Helvetica, Arial, 
-	/*font-family: 'ElegantIcons';
+	font-family: 'ElegantIcons';
 	src:url('fonts/ElegantIcons.eot');
 	src:url('fonts/ElegantIcons.eot?#iefix') format('embedded-opentype'),
 		url('fonts/ElegantIcons.ttf') format('truetype'),
 		url('fonts/ElegantIcons.svg#ElegantIcons') format('svg'),
 		url('fonts/ElegantIcons.woff') format('woff');
 	font-weight: normal;
-	font-style: normal;*/
+	font-style: normal;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
