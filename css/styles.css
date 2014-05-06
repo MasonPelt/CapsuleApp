@@ -460,10 +460,14 @@ header .intro-section .buttons {
 /*---------------------------------------
    SECTION:  BRIEF                 
 -----------------------------------------*/
-
 .app-brief {
     padding-top: 110px;
     padding-bottom: 60px;
+}
+
+.app-brief {
+background: #8e5da6;
+
 }
 
 .app-brief h2 {
