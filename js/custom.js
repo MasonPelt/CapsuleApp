@@ -15,7 +15,7 @@ jQuery(window).load(function() {
 
 $('.mailchimp').ajaxChimp({
     callback: mailchimpCallback,
-    url: "http://webdesign7.us6.list-manage.com/subscribe/post?u=9445a2e155b82208d73433060&amp;id=16dc80e353" //Replace this with your own mailchimp post URL. Don't remove the "". Just paste the url inside "".  
+    url: "http://thetribeapp.us8.list-manage1.com/subscribe/post?u=629af7f31dc33e62c3cb8354d&amp;id=484293bbb6" //Replace this with your own mailchimp post URL. Don't remove the "". Just paste the url inside "".  
 });
 
 function mailchimpCallback(resp) {
