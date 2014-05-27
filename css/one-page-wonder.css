@@ -1,0 +1,209 @@
+body {
+	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+
+.standard-button {
+    background: #7dc241;
+}
+
+.header-image {
+	background: url(../images/capsule-the-moment-large.jpg) no-repeat center top fixed;
+		height: auto;
+	width: 100%;
+	padding-bottom:20px;
+	padding-top:700px;
+}
+
+/*.headline {
+	padding: 120px 0;
+}
+
+.headline > .container > h1 {
+	font-size: 130px;
+	background: #ffffff;
+	background: rgba(255, 255, 255, 0.9);
+}
+
+.headline > .container > h2 {
+	font-size: 77px;
+	background: #ffffff;
+	background: rgba(255, 255, 255, 0.9);
+}*/
+
+.download {
+	background-color: #8e5da6;
+    color: #ffffff;
+}
+
+.featurette-divider {
+	margin: 80px 0;
+}
+.featurette {
+	overflow: hidden;
+	text-align: center;
+}
+
+.featurette-heading {
+	font-size: 50px;
+}
+
+footer {
+	background-color: #4e2974;
+}
+footer .copyright {
+    color: #ffffff;
+    padding-top: 10px;
+	padding-left:25px;
+	padding-bottom: 10px;
+}
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+.social-icons li a:hover {
+    color: #7dc241;
+}
+.social-icons {
+font-family: 'ElegantIcons';
+src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
+
+}
+
+.social-icons {
+    margin-top: 20px;
+    padding-bottom: 10px;
+	padding-right: 20px;
+}
+
+.social-icons li {
+    display: inline-block;
+    margin: 5px;
+}
+
+.social-icons li a {
+    font-size: 30px;
+    color: #fff;
+}
+
+/* RESPONSIVE CSS */
+
+@media (max-width: 1200px) {
+
+.headline > .container > h1 {font-size: 140px;}
+.headline > .container > h2 {font-size: 63px;}
+.featurette-divider {margin: 50px 0;}
+.featurette-image.pull-left {margin-right: 20px;}
+.featurette-image.pull-right {margin-left: 20px;}
+.featurette-heading {font-size: 35px;}
+.header-image {
+	background: url(../images/capsule-the-moment-1200.jpg) no-repeat center top fixed;
+		height: auto;
+	width: 100%;
+	padding-bottom:20px;
+	padding-top:800px;
+}
+
+}
+
+@media (max-width: 991px) {
+
+.headline > .container > h1 {font-size: 105px;}
+.headline > .container > h2 {font-size: 50px;}
+.featurette-divider {margin: 40px 0;}
+.featurette-image {max-width: 50%;}
+.featurette-image.pull-left {margin-right: 10px;}
+.featurette-image.pull-right {margin-left: 10px;}
+.featurette-heading {font-size: 30px;}
+.header-image {
+	background: url(../images/capsule-the-moment-991.jpg) no-repeat center top fixed;
+		height: auto;
+	width: 100%;
+	padding-bottom:20px;
+	padding-top:800px;
+}
+
+}
+
+@media (max-width: 768px) {
+	
+.container {margin: 0 15px;}
+.featurette-divider {margin: 40px 0;}
+.featurette-heading {font-size: 25px;}
+.header-image {
+	background: url(../images/capsule-the-moment-768.jpg) no-repeat center top fixed;
+		height: auto;
+	width: 100%;
+	padding-bottom:20px;
+	padding-top:600px;
+}
+
+}
+
+
+@media (max-width: 668px) {
+
+.headline > .container > h1 {font-size: 70px;}
+.headline > .container > h2 {font-size: 32px;}
+.featurette-divider {margin: 30px 0;}
+
+}
+
+@media (max-width: 640px) {
+
+.headline {padding: 75px 0 25px 0;}
+.headline > .container > h1 {font-size: 60px;}
+.headline > .container > h2 {font-size: 30px;}
+.header-image {
+	background: url(../images/capsule-the-moment-640.jpg) no-repeat center top fixed;
+		height: auto;
+	width: 100%;
+	padding-bottom:20px;
+	padding-top:450px;
+}
+
+}
+
+@media (max-width: 375px) {
+
+.featurette-divider {margin: 10px 0;}
+.featurette-image {max-width: 100%;}
+.featurette-image.pull-left {margin-right: 0; margin-bottom: 10px;}
+.featurette-image.pull-right {margin-left: 0; margin-bottom: 10px;}
+.header-image {
+	background: url(../images/capsule-the-moment-375.jpg) no-repeat center top fixed;
+		height: auto;
+	width: 100%;
+	padding-bottom:20px;
+	padding-top:500px;
+}
+
+}
