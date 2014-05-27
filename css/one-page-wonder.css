@@ -7,8 +7,8 @@ body {
 }
 
 .header-image {
-	background: url(.../images/capsule-the-moment-large.jpg) no-repeat center top fixed;
-		height: auto;
+	background: url(.../images/capsule-the-moment-1200.jpg) no-repeat center top fixed;
+	height: auto;
 	width: 100%;
 	padding-bottom:20px;
 	padding-top:700px;
@@ -116,17 +116,11 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 
 /* RESPONSIVE CSS */
 
-@media (max-width: 1200px) {
 
-.headline > .container > h1 {font-size: 140px;}
-.headline > .container > h2 {font-size: 63px;}
-.featurette-divider {margin: 50px 0;}
-.featurette-image.pull-left {margin-right: 20px;}
-.featurette-image.pull-right {margin-left: 20px;}
-.featurette-heading {font-size: 35px;}
+@media (max-width: 1200px) {
 .header-image {
 	background: url(../images/capsule-the-moment-1200.jpg) no-repeat center top fixed;
-		height: auto;
+	height: auto;
 	width: 100%;
 	padding-bottom:20px;
 	padding-top:800px;
@@ -135,17 +129,9 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 }
 
 @media (max-width: 991px) {
-
-.headline > .container > h1 {font-size: 105px;}
-.headline > .container > h2 {font-size: 50px;}
-.featurette-divider {margin: 40px 0;}
-.featurette-image {max-width: 50%;}
-.featurette-image.pull-left {margin-right: 10px;}
-.featurette-image.pull-right {margin-left: 10px;}
-.featurette-heading {font-size: 30px;}
 .header-image {
 	background: url(../images/capsule-the-moment-991.jpg) no-repeat center top fixed;
-		height: auto;
+	height: auto;
 	width: 100%;
 	padding-bottom:20px;
 	padding-top:800px;
@@ -154,13 +140,9 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 }
 
 @media (max-width: 768px) {
-	
-.container {margin: 0 15px;}
-.featurette-divider {margin: 40px 0;}
-.featurette-heading {font-size: 25px;}
 .header-image {
 	background: url(../images/capsule-the-moment-768.jpg) no-repeat center top fixed;
-		height: auto;
+	height: auto;
 	width: 100%;
 	padding-bottom:20px;
 	padding-top:600px;
@@ -168,30 +150,12 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 
 }
 
-
-@media (max-width: 668px) {
-
-.headline > .container > h1 {font-size: 70px;}
-.headline > .container > h2 {font-size: 32px;}
-.featurette-divider {margin: 30px 0;}
-.header-image {
-	background: url(.../images/capsule-the-moment-640.jpg) no-repeat center top fixed;
-		height: auto;
-	width: 100%;
-	padding-bottom:20px;
-	padding-top:450px;
-}
-
 }
 
 @media (max-width: 640px) {
-
-.headline {padding: 75px 0 25px 0;}
-.headline > .container > h1 {font-size: 60px;}
-.headline > .container > h2 {font-size: 30px;}
 .header-image {
 	background: url(.../images/capsule-the-moment-640.jpg) no-repeat center top fixed;
-		height: auto;
+	height: auto;
 	width: 100%;
 	padding-bottom:20px;
 	padding-top:450px;
@@ -200,14 +164,9 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 }
 
 @media (max-width: 375px) {
-
-.featurette-divider {margin: 10px 0;}
-.featurette-image {max-width: 100%;}
-.featurette-image.pull-left {margin-right: 0; margin-bottom: 10px;}
-.featurette-image.pull-right {margin-left: 0; margin-bottom: 10px;}
 .header-image {
 	background: url(../images/capsule-the-moment-375.jpg) no-repeat center top fixed;
-		height: auto;
+	height: auto;
 	width: 100%;
 	padding-bottom:20px;
 	padding-top:500px;
