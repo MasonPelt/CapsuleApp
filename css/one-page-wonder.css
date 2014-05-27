@@ -118,7 +118,7 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 
 @media (max-width: 1200px) {
 .header-image {
-	background: url(../images/capsule-the-moment-1200.jpg) no-repeat center top fixed;
+	background: url(https://raw.githubusercontent.com/MasonPelt/CapsuleApp/gh-pages/Images/capsule-the-moment-1200.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 }
@@ -127,7 +127,7 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 
 @media (max-width: 991px) {
 .header-image {
-	background: url(../images/capsule-the-moment-991.jpg) no-repeat center top fixed;
+	background: url(.../images/capsule-the-moment-991.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 }
@@ -136,7 +136,7 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 
 @media (max-width: 768px) {
 .header-image {
-	background: url(../images/capsule-the-moment-768.jpg) no-repeat center top fixed;
+	background: url(.../images/capsule-the-moment-768.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 }
@@ -156,7 +156,7 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 
 @media (max-width: 375px) {
 .header-image {
-	background: url(../images/capsule-the-moment-375.jpg) no-repeat center top fixed;
+	background: url(.../images/capsule-the-moment-375.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 }
