@@ -7,27 +7,8 @@ body {
 }
 
 .header-image {
-	background: url(https://raw.githubusercontent.com/MasonPelt/CapsuleApp/gh-pages/Images/capsule-the-moment-large.jpg) no-repeat center top fixed;
-	height: auto;
-	width: 100%;
-	padding-bottom:700px;
+	background: url(https://raw.githubusercontent.com/MasonPelt/CapsuleApp/gh-pages/Images/capsule-the-moment-1200.jpg) no-repeat center top fixed;
 }
-
-/*.headline {
-	padding: 120px 0;
-}
-
-.headline > .container > h1 {
-	font-size: 130px;
-	background: #ffffff;
-	background: rgba(255, 255, 255, 0.9);
-}
-
-.headline > .container > h2 {
-	font-size: 77px;
-	background: #ffffff;
-	background: rgba(255, 255, 255, 0.9);
-}*/
 
 .download {
 	background-color: #8e5da6;
@@ -115,30 +96,31 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 
 /* RESPONSIVE CSS */
 
-
 @media (max-width: 1200px) {
 .header-image {
 	background: url(https://raw.githubusercontent.com/MasonPelt/CapsuleApp/gh-pages/Images/capsule-the-moment-1200.jpg) no-repeat center top fixed;
-	height: auto;
-	width: 100%;
+	margin-top:800px;
+}
+
+}
+
+@media (max-width: 1920px) {
+.header-image {
+		background: url(https://raw.githubusercontent.com/MasonPelt/CapsuleApp/gh-pages/Images/capsule-the-moment-large.jpg) no-repeat center top fixed;
 }
 
 }
 
 @media (max-width: 991px) {
 .header-image {
-	background: url(.../images/capsule-the-moment-991.jpg) no-repeat center top fixed;
-	height: auto;
-	width: 100%;
+	background: url(https://raw.githubusercontent.com/MasonPelt/CapsuleApp/gh-pages/Images/capsule-the-moment-991.jpg) no-repeat center top fixed;
 }
 
 }
 
 @media (max-width: 768px) {
 .header-image {
-	background: url(.../images/capsule-the-moment-768.jpg) no-repeat center top fixed;
-	height: auto;
-	width: 100%;
+	background: url(https://raw.githubusercontent.com/MasonPelt/CapsuleApp/gh-pages/Images/capsule-the-moment-768.jpg no-repeat center top fixed;
 }
 
 }
@@ -147,18 +129,14 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 
 @media (max-width: 640px) {
 .header-image {
-	background: url(.../images/capsule-the-moment-640.jpg) no-repeat center top fixed;
-	height: auto;
-	width: 100%;
+	background: url(https://raw.githubusercontent.com/MasonPelt/CapsuleApp/gh-pages/Images/capsule-the-moment-640.jpg) no-repeat center top fixed;
 }
 
 }
 
 @media (max-width: 375px) {
 .header-image {
-	background: url(.../images/capsule-the-moment-375.jpg) no-repeat center top fixed;
-	height: auto;
-	width: 100%;
+	background: url(https://raw.githubusercontent.com/MasonPelt/CapsuleApp/gh-pages/Images/capsule-the-moment-375.jpg) no-repeat center top fixed;
 }
 
 }
