@@ -4,7 +4,7 @@
 
 $('.mailchimp').ajaxChimp({
     callback: mailchimpCallback,
-    url: "http://thetribeapp.us8.list-manage1.com/subscribe/post?u=629af7f31dc33e62c3cb8354d&amp;id=484293bbb6" //Replace this with your own mailchimp post URL. Don't remove the "". Just paste the url inside "".  
+    url: "http://capsulethemoment.us8.list-manage2.com/subscribe/post?u=4a49977d6364238e4cc80b2d1&amp;id=68f34b1dc9" //Replace this with your own mailchimp post URL. Don't remove the "". Just paste the url inside "".  
 });
 
 function mailchimpCallback(resp) {
