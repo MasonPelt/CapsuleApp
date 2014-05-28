@@ -7,7 +7,7 @@ body {
 }
 
 .header-image {
-	background: url(.../images/capsule-the-moment-large.jpg) no-repeat center top fixed;
+	background: url(images/capsule-the-moment-large.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 	padding-bottom:20px;
@@ -125,7 +125,7 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 .featurette-image.pull-right {margin-left: 20px;}
 .featurette-heading {font-size: 35px;}
 .header-image {
-	background: url(../images/capsule-the-moment-1200.jpg) no-repeat center top fixed;
+	background: url(images/capsule-the-moment-1200.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 	padding-bottom:20px;
@@ -144,7 +144,7 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 .featurette-image.pull-right {margin-left: 10px;}
 .featurette-heading {font-size: 30px;}
 .header-image {
-	background: url(../images/capsule-the-moment-991.jpg) no-repeat center top fixed;
+	background: url(images/capsule-the-moment-991.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 	padding-bottom:20px;
@@ -159,7 +159,7 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 .featurette-divider {margin: 40px 0;}
 .featurette-heading {font-size: 25px;}
 .header-image {
-	background: url(../images/capsule-the-moment-768.jpg) no-repeat center top fixed;
+	background: url(images/capsule-the-moment-768.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 	padding-bottom:20px;
@@ -183,7 +183,7 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 .headline > .container > h1 {font-size: 60px;}
 .headline > .container > h2 {font-size: 30px;}
 .header-image {
-	background: url(../images/capsule-the-moment-640.jpg) no-repeat center top fixed;
+	background: url(images/capsule-the-moment-640.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 	padding-bottom:20px;
@@ -199,7 +199,7 @@ src: url('fonts/ElegantIcons.svg#ElegantIcons') format('svg');
 .featurette-image.pull-left {margin-right: 0; margin-bottom: 10px;}
 .featurette-image.pull-right {margin-left: 0; margin-bottom: 10px;}
 .header-image {
-	background: url(../images/capsule-the-moment-375.jpg) no-repeat center top fixed;
+	background: url(images/capsule-the-moment-375.jpg) no-repeat center top fixed;
 	height: auto;
 	width: 100%;
 	padding-bottom:20px;
